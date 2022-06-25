@@ -8,6 +8,10 @@ https://www.cs.unc.edu/~jeffi/c-space/robot.xhtml
 * Open a Terminal
 * pip3 install modern_robotics
 
+## Install vscode 
+* Open a Terminal
+* sudo snap install --classic code
+
 ## Install CoppeliaSim robot simulator 
 * cross-platform CoppeliaSim robot simulator (formerly known as V-REP)
 * Go to [http://www.coppeliarobotics.com/](https://www.coppeliarobotics.com/downloads), click "choose a different platform", choose "Ubuntu 20.04"
