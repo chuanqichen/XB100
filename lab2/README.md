@@ -17,6 +17,10 @@
 * Open a Terminal
 * sudo snap install --classic code
 
+## git command and download the lab2 
+* git clone https://github.com/chuanqichen/XB100.git
+
+
 ## Install CoppeliaSim robot simulator 
 * cross-platform CoppeliaSim robot simulator (formerly known as V-REP)
 * Go to [http://www.coppeliarobotics.com/](https://www.coppeliarobotics.com/downloads), click "choose a different platform", choose "Ubuntu 20.04"
@@ -25,6 +29,4 @@
 * Run the CoppeliaSim simulator 
    * Change directories into the CoppeliaSim source directory 
    * run the coppeliaSim.sh shell script:   ./coppeliaSim.sh
-
-
 
