@@ -1,6 +1,6 @@
 # Getting Started with Linux
 
-Most robotics programming is done using the Linux operating system. This is mainly due to the large amount of open-source robotics software that has been developed on it. Linux itself is **open-source**. Open-source software is software that is free to use, distribute to others, and modify. You will use **Ubuntu 18.04,** which is a Linux distribution (packaging of the OS and other software). Ubuntu is one of the most popular Linux distros, and is the main operating system used here in UTCS.
+Most machine learning and robotics programming are done using the Linux operating system, and Ubuntu is one of the most popular Linux distros with rich libraries and large amount of open-source robotics software. We will use **Ubuntu 20.04,** . 
 
 ## Getting to a Web Browser
 
@@ -8,7 +8,6 @@ A grid of nine dots will be displayed on the launcher to the left of the monitor
 
 1. Click on the grid icon. This will open the "lens."
 2. Type in "google-chrome."
-3. Go to https://texas-robotics-academy.com/ to get to this site.
 
 
 ## Getting to a Terminal
@@ -17,9 +16,7 @@ A grid of nine dots will be displayed on the launcher to the left of the monitor
 2. Type in "terminator."
 3. A terminal window will open.
 
-{{site.data.alerts.note}}
 The easiest way to access Terminator is to hit Ctrl-Alt-T
-{{site.data.alerts.end}}
 
 
 ## Terminator
@@ -80,7 +77,6 @@ Here are a few shortcuts that you can use when forming paths.
 Here's a quick exercise to try this all out.
 
 
-{{ site.data.alerts.terminal_commands }}
 mkdir linux_exercise
 ls
 cd linux_exercise
@@ -91,7 +87,6 @@ mkdir linux_exercise/subdirectory
 cd ~/linux_exercise/subdirectory
 pwd
 cd ~
-{{ site.data.alerts.terminal_commands_end }}
 
 This is basically a text-based version of double clicking on folders, but the command line is a powerful tool which you will use all week.
 
@@ -134,8 +129,3 @@ To open VSCode you can do one of two things:
 
 Before you finish for the day, make sure you save all your work and turn off the computer. Open the account menu in the top right-hand corner of your screen, click the shut down icon, and select shut down from the power options.
 
-{{site.data.alerts.note}}
-If you are running Ubuntu from a USB, please do not unplug the USB before your computer has fully shut down, as this may corrupt files on the USB.
-{{site.data.alerts.end}}
-
-{{-}}Introduction to Programming, programming_intro, Next{{-}}
