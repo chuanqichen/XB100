@@ -1,6 +1,9 @@
 
 ##  Configuration Space and Work Space
-https://www.cs.unc.edu/~jeffi/c-space/robot.xhtml
+* Four Main Types of Robotic Arm Geometry by Engineering Technology Simulation Learning Videos Channel
+** https://www.youtube.com/watch?v=R0eJXe6R8vY
+* Configuration space and robot design: https://www.cs.unc.edu/~jeffi/c-space/robot.xhtml
+* Work Envelop : https://www.youtube.com/watch?v=_canCYWZPsc
 
 ## Familiar with Ubuntu Linux 
 
