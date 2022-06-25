@@ -6,7 +6,8 @@
 * Work Envelop : https://www.youtube.com/watch?v=_canCYWZPsc
 
 ## Familiar with Ubuntu Linux 
-* reference to: linux_intro.md
+* reference to: linux_intro.md 
+  * https://github.com/chuanqichen/XB100/blob/main/lab2/linux_intro.md
 
 ## Install modern robotics python library 
 * Open a Terminal
