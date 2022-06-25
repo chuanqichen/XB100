@@ -129,5 +129,5 @@ To open VSCode you can do one of two things:
 
 Before you finish for the day, make sure you save all your work and turn off the computer. Open the account menu in the top right-hand corner of your screen, click the shut down icon, and select shut down from the power options.
 
-## Reference: 
+## Reference and Credit: 
 github: texas_robotics_academy, texas_robotics_academy_markdown
