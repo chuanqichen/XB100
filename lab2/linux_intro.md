@@ -94,21 +94,15 @@ This is basically a text-based version of double clicking on folders, but the co
 
 The command line has tab-completion. If you start typing the name of a file, directory, or command and hit tab, it will finish the name for you. If there is more than one match, all possible options are displayed.
 
-{{site.data.alerts.tip}}
 Don't forget about tab completion! It's a HUGE timesaver, especially when you have to type long commands.
-{{site.data.alerts.end}}
 
 As an example, make sure you are in your home directory:
 
-{{ site.data.alerts.terminal_commands }}
 cd ~
-{{ site.data.alerts.terminal_commands_end }}
 
 There should be a Documents directory inside your home directory. You can check this by typing:
 
-{{ site.data.alerts.terminal_commands }}
 ls
-{{ site.data.alerts.terminal_commands_end }}
 
 Now in your terminal, type "cd Doc" and hit tab. The terminal should have auto-filled the line with "Documents/". When you click enter, you will be led into the "Documents" directory.
 
