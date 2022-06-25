@@ -19,7 +19,10 @@
 * cross-platform CoppeliaSim robot simulator (formerly known as V-REP)
 * Go to [http://www.coppeliarobotics.com/](https://www.coppeliarobotics.com/downloads), click "choose a different platform", choose "Ubuntu 20.04"
 * Download and install the free CoppeliaSim edu software
-   * tar xvf CoppeliaSim_Edu_V4_0_0_Ubuntu20_04.tar.xz
+   * Extract the compressed tar archive: tar xvf CoppeliaSim_Edu_V4_0_0_Ubuntu20_04.tar.xz
+* Run the CoppeliaSim simulator 
+   * Change directories into the CoppeliaSim source directory 
+   * run the coppeliaSim.sh shell script:   ./coppeliaSim.sh
 
 
 
