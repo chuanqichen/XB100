@@ -6,7 +6,7 @@
 * Work Envelop : https://www.youtube.com/watch?v=_canCYWZPsc
 
 ## Familiar with Ubuntu Linux 
-* reference to: linux_intro.md 
+* reference to: linux_intro.md => Homework 
   * https://github.com/chuanqichen/XB100/blob/main/lab2/linux_intro.md
 
 ## Install modern robotics python library 
@@ -16,6 +16,7 @@
 ## Install vscode 
 * Open a Terminal
 * sudo snap install --classic code
+* Get comfortable using vscode => Homework
 
 ## git command and download the lab2 
 * git clone https://github.com/chuanqichen/XB100.git
