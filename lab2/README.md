@@ -22,6 +22,9 @@
 ## git command and download the lab2 
 * sudo apt install git
 * git clone https://github.com/chuanqichen/XB100.git
+* cd XB100
+* cd lab2
+* unzip V-REP_scenes-Nov2019.zip
 
 
 ## Install CoppeliaSim robot simulator 
