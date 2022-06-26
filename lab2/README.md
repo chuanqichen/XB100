@@ -33,8 +33,9 @@
 * Download and install the free CoppeliaSim edu software
    * Extract the compressed tar archive: tar -xvf CoppeliaSim_Edu_V4_0_0_Ubuntu20_04.tar.xz
    * mv CoppeliaSim_Edu_V4_0_0_Ubuntu20_04 ../
-   * cd 
+   * cd ..
 * Run the CoppeliaSim simulator 
    * Change directories into the CoppeliaSim source directory 
+     * cd CoppeliaSim_Edu_V4_3_0_rev10_Ubuntu20_04
    * run the coppeliaSim.sh shell script:   ./coppeliaSim.sh
 
