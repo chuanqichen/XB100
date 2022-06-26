@@ -61,6 +61,7 @@ This scene helps you visualize a UR5 robot from Universal Robots. The model of t
 
 This scene animates the motion of the UR5 robot based on a csv file representing the trajectory of the robot. Each row of the csv file represents a timestep and each column of the csv file is the joint angle through time for one of the joints (first column is joint 1, last column is joint 6).
 
+
 ### Scene 3: Interactive youBot
 * ![youBot](169px-Youbot-fig.png)
 * Scene3_youBot.ttt: the CoppeliaSim scene file.
