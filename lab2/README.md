@@ -20,6 +20,7 @@
 * Get comfortable using vscode => Homework
 
 ## git command and download the lab2 
+* sudo apt install git
 * git clone https://github.com/chuanqichen/XB100.git
 
 
