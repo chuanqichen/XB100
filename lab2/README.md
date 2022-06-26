@@ -42,7 +42,12 @@
      * cd CoppeliaSim_Edu_V4_3_0_rev10_Ubuntu20_04
    * run the coppeliaSim.sh shell script:   ./coppeliaSim.sh
 
+
 ## Homework: Run Robot Simulation 
+Once CoppeliaSim is open you will want to run one of the scenes below. To run any of them, you first run CoppeliaSim, then you click File->Open scene... and open one of the ttt files that are listed for each scene. Then click either the Play button from the top toolbar or click Simulation->Start simulation and a GUI should pop up. Clicking the Stop button or Simulation->Stop simulation will close the GUI and stop the simulation.
+
+The "interactive" scenes allow you to visualize the robot as you change its configuration using sliders. The "CSV" scenes allow animations of a robot based on a trajectory stored in a comma-separated values file, where each line corresponds to a timestep and consists of comma-separated numbers specifying the robot's configuration at that timestep. There are no joint limits in the "CSV" scenes.
+
 ### Scene 1: Interactive UR5
 ![Ur5](142px-Ur5-img.png)
 * Scene1_UR5.ttt: the CoppeliaSim scene file.
@@ -53,8 +58,8 @@ This scene helps you visualize a UR5 robot from Universal Robots. The model of t
 ### Scene 2: CSV Animation UR5
 * Scene2_UR5_csv.ttt: the CoppeliaSim scene file.
 * Scene2_example.csv: an example input file.
+* 
 This scene animates the motion of the UR5 robot based on a csv file representing the trajectory of the robot. Each row of the csv file represents a timestep and each column of the csv file is the joint angle through time for one of the joints (first column is joint 1, last column is joint 6).
-
 
 ### Scene 3: Interactive youBot
 ![youBot](169px-Youbot-fig.png)
