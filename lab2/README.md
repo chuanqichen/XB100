@@ -11,7 +11,7 @@
 
 ## Install modern robotics python library 
 * Open a Terminal
-* sudo snap install --classic code
+* sudo apt install python3-pip
 * pip3 install modern_robotics
 
 ## Install vscode 
