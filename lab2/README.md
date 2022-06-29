@@ -48,6 +48,8 @@ Once CoppeliaSim is open you will want to run one of the scenes below. To run an
 
 The "interactive" scenes allow you to visualize the robot as you change its configuration using sliders. The "CSV" scenes allow animations of a robot based on a trajectory stored in a comma-separated values file, where each line corresponds to a timestep and consists of comma-separated numbers specifying the robot's configuration at that timestep. There are no joint limits in the "CSV" scenes.
 
+All below ???.ttt or ???.csv files are located on your github local folder such as: ?\XB100\lab2
+
 ### Scene 1: Interactive UR5
 * ![Ur5](142px-Ur5-img.png)
 * Scene1_UR5.ttt: the CoppeliaSim scene file.
