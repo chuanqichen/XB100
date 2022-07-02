@@ -9,5 +9,5 @@ git pull
 ### go to lab3 folder
 ```
 cd lab3
-gunzip EV-R3P_1.3.1.zip
+unzip EV-R3P_1.3.1.zip
 ```
