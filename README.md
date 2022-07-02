@@ -12,5 +12,5 @@ git clone https://github.com/chuanqichen/XB100.git
 always start from XB100 root folder: 
 cd
 cd XB100
-git fetch 
+git pull
 ```
