@@ -7,7 +7,7 @@ cd
 git clone https://github.com/chuanqichen/XB100.git
 ```
 
-## get latest update 
+## get latest update in subsequent labs 
 ```
 always start from XB100 root folder: 
 cd
