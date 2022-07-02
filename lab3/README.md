@@ -3,7 +3,7 @@
 ```
 cd 
 cd XB100
-git fetch 
+git pull
 ```
 
 ### go to lab3 folder
