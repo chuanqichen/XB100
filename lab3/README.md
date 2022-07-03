@@ -26,4 +26,10 @@ unzip EV-R3P_1.3.1.zip
 ### how to run simulator 
 ```
 cd 
+cd CoppeliaSim_Edu_V4_3_0_rev10_Ubuntu20_04
+./coppeliaSim.sh
+```
+### open a scene
+```
+File -> Open scene 
 ```
