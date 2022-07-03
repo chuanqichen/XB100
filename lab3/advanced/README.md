@@ -3,7 +3,8 @@
 * pip3 install numpy
 * pip3 install plotly
 
-## How to install Jupyter notebook from terminal 
+## How to install Jupyter notebook from terminal (starting from home root
+* cd 
 * pip3 install jupyter
 * jupyter notebook 
 
