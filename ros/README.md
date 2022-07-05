@@ -1,6 +1,11 @@
 
 ROS Setup on Ubuntu 20.04 LTS
 ======
+## Step 0: if you have not git clone XB100 repository yet 
+```
+cd 
+git clone https://github.com/chuanqichen/XB100.git
+```
 
 ## Step 1:
 ```
