@@ -1,6 +1,12 @@
 # Install ROS
+```
+cd
+cd XB100
+git pull
+cd lab4
 chmod +x ros.sh
 ./ros.sh
+```
 
 ## launch simulator 
 cd
