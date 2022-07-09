@@ -11,9 +11,7 @@ Close and reopen your terminal. ROS will be ready when you re-open the terminal.
 
 ## launch simulator 
 ```
-cd
 rosrun texas_robotics_academy teleop_texbot
-ls
 roslaunch texas_robotics_academy test_world.launch 
 ```
 
