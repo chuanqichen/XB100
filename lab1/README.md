@@ -12,4 +12,6 @@ For student who use Windows 10 Home Edition or some Windows, you do't have Hyper
 VirtualBox:  https://www.virtualbox.org/
 
 # Enable copy and paste between host and ubuntu
+* Inside Ubuntu terminal and run following command to install additional program
+* Then shutdown and restart the Ubuntu for Copy/Paste between host and guest Ubuntu works
 sudo apt install virtualbox-guest-dkms virtualbox-guest-x11 virtualbox-guest-utils
