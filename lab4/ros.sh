@@ -54,5 +54,5 @@ mkdir src
 cd src
 catkin_init_workspace
 git clone https://github.com/Texas-Robotics-Academy/texas_robotics_academy.git
-cd ..
+cd ~/catkin_ws/
 catkin build
