@@ -1,12 +1,4 @@
-## Installing ROS
-* Click on the icon with nine dots in the lower left-hand corner of the screen (3 rows x 3 columns of dots).
-* Type “terminal” and click on the “terminal” icon.
-
-* This will be much easier if you open the web browser inside the virtual machine, log in to https://texas-robotics-academy.com from there, and then copy-paste the commands below from *that* browser.
-* ctrl-c works as expected from Firefox or Chrome.
-* To paste into the terminal, type ctrl-shift-v or right-click.
-* Enter the next command when you see the green line with the $ at the end. Only copy one line at a time.
-* You will need to enter the password (robocamp2021) when prompted. Nothing will appear on the screen when you do so, not even dots; this is normal.
+## Installing ROS and catkin
 
 **Adding ROS repositories**
 * `sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/sources.list.d/ros-latest.list'`
