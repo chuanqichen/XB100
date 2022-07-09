@@ -11,7 +11,9 @@ sudo add-apt-repository http://packages.osrfoundation.org/gazebo/ubuntu-stable
 # install ros-noetic
 sudo apt update  -y
 sudo apt upgrade -y
-sudo apt install ros-noetic-desktop-full  -y
+sudo apt install ros-noetic-desktop-full -y
+sudo apt install ros-noetic-rosbash -y
+
 # tools and libraries 
 sudo apt install python3-rosdep python3-rosinstall python3-rosinstall-generator python3-wstool build-essential  -y
 sudo apt install python3-catkin-tools  -y
