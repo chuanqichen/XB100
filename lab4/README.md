@@ -1,3 +1,13 @@
+# Install ROS
+chmod +x ros.sh
+./ros.sh
+
+## launch simulator 
+cd
+rosrun texas_robotics_academy teleop_texbot
+ls
+roslaunch texas_robotics_academy test_world.launch 
+
 
 ## Tutorial 
 * ROS Tutorial:
