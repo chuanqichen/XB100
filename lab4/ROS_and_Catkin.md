@@ -67,5 +67,5 @@
 * Close and reopen your terminal. ROS will be ready when you re-open the terminal.
 
 
-** Reference
+**Reference
 * https://github.com/Texas-Robotics-Academy/texas_robotics_academy.git
