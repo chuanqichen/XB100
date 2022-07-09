@@ -18,7 +18,7 @@ sudo apt-get -qq install python3-catkin-tools -y
 mkdir -p ~/catkin_ws/src
 cd ~/catkin_ws/
 catkin_make
-echo "source ~/catkin_ws/devel/setup.bash" >> ~/.bashrc
+# echo "source ~/catkin_ws/devel/setup.bash" >> ~/.bashrc
 source ~/.bashrc
 echo "Check ROS_PACKAGE_PATH below (should be /home/<pathtouser>/catkin_ws/src:/opt/ros/noetic/share)"
 echo $ROS_PACKAGE_PATH
