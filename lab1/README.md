@@ -11,3 +11,5 @@ For student who use Windows 10 Home Edition or some Windows, you do't have Hyper
 
 VirtualBox:  https://www.virtualbox.org/
 
+# enable copy and paste between host and ubuntu
+sudo apt install virtualbox-guest-dkms virtualbox-guest-x11 virtualbox-guest-utils
