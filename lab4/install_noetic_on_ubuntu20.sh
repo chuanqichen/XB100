@@ -27,3 +27,7 @@ sudo apt-get -qq install python3-numpy python3-scipy python3-matplotlib ipython3
 sudo apt-get -qq install ros-noetic-slam-gmapping -y
 sudo apt-get -qq install ros-noetic-gmapping -y
 cd ~/catkin_ws/src
+catkin_init_workspace
+git clone https://github.com/Texas-Robotics-Academy/texas_robotics_academy.git
+cd ..
+catkin build
