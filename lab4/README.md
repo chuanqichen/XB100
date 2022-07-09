@@ -7,6 +7,7 @@ cd lab4
 chmod +x ros.sh
 ./ros.sh
 ```
+Close and reopen your terminal. ROS will be ready when you re-open the terminal.
 
 ## launch simulator 
 ```
