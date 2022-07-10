@@ -1,5 +1,8 @@
 # XB100
 
+## install git
+sudo apt install git
+
 ## get this repository the first time
 ```
 start from home directory: 
