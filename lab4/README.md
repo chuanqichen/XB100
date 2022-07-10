@@ -15,6 +15,13 @@ rosrun texas_robotics_academy teleop_texbot
 roslaunch texas_robotics_academy test_world.launch 
 ```
 
+## Helpful ROS commands
+Here is a list of ROS commands that you will use often to understand what topics are being used.
+* rostopic list - This lists all of the topics that have been used or are in use.
+* rostopic echo -This echos the messages that are being sent to the particular topic.
+* rostopic hz - This returns the frequency at which the topic is being published to
+* rostopic pub - This allows you to publish to a topic. It’s useful for debugging a subscriber.
+
 ## Tutorial 
 * ROS Tutorial:
   * https://wiki.ros.org/ROS/Tutorials
