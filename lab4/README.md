@@ -9,6 +9,12 @@ chmod +x ros.sh
 ```
 Close and reopen your terminal. ROS will be ready when you re-open the terminal.
 
+And run following if you have one failed build in above command: 
+```
+cd ~/catkin_ws
+catkin build
+```
+
 ## launch simulator 
 ```
 roscore 
