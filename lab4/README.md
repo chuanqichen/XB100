@@ -35,14 +35,16 @@ Failed    <<< catkin_tools_prebuild                 [ 0.1 seconds ]             
 ```
 
 ## launch simulator 
-```
-roscore 
-```
-open another terminal to run following two commands:
+open a new terminal to run following command:
 ```
 roslaunch texas_robotics_academy test_world.launch 
+```
+
+Then, open another terminal to run following command:
+```
 rosrun texas_robotics_academy teleop_texbot
 ```
+
 
 ## Helpful ROS commands
 Here is a list of ROS commands that you will use often to understand what topics are being used.
