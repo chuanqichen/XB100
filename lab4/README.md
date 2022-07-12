@@ -5,7 +5,7 @@ cd XB100
 git pull
 cd lab4
 chmod +x ros.sh
-./ros.sh
+./ros.sh  (if you have problem with ros.sh, you can try ./ros2.sh)
 ```
 Close and reopen your terminal. ROS will be ready when you re-open the terminal.
 
