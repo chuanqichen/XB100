@@ -3,7 +3,7 @@
 cd ~/catkin_ws/src/
 git clone https://github.com/texas-robocamp/robocamp_exercises.git
 cd ..
-catkin build
+catkin build -DPYTHON_EXECUTABLE=/usr/bin/python3
 ```
 
 ## launch simulator 
