@@ -35,7 +35,7 @@ Failed    <<< catkin_tools_prebuild                 [ 0.1 seconds ]             
 ```
 
 ## launch simulator 
-open a new terminal to run following command:
+Open a new terminal to run following command:
 ```
 roslaunch texas_robotics_academy test_world.launch 
 ```
