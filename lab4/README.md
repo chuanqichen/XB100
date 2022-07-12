@@ -40,8 +40,8 @@ roscore
 ```
 open another terminal to run following two commands:
 ```
-rosrun texas_robotics_academy teleop_texbot
 roslaunch texas_robotics_academy test_world.launch 
+rosrun texas_robotics_academy teleop_texbot
 ```
 
 ## Helpful ROS commands
