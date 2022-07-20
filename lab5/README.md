@@ -2,14 +2,14 @@
 ```
 cd ~/catkin_ws/src/
 git clone https://github.com/texas-robocamp/robocamp_exercises.git
+cd ..
 catkin build
 ```
+catkin build -DPYTHON_EXECUTABLE=/usr/bin/python3
+
 
 ## launch simulator 
-```
-roscore 
-```
-open another terminal to run following two commands:
+open a terminal to run following two commands:
 ```
 roslaunch texas_robotics_academy test_world.launch 
 ```
