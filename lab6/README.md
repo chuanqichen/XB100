@@ -7,7 +7,7 @@ git pull
 
 ## launch simulator 
 ```
-rosrun texas_robotics_academy teleop_texbot
+rosrun texas_robotics_academy box.launch
 ```
 open another terminal to run following two commands:
 ```
