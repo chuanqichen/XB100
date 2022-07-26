@@ -19,6 +19,7 @@ rosrun texas_robotics_academy maze.launch
 ```
 
 ## Code Assignment: robotcamp_exercises/5/src/ex_5.cpp
+```
 cd ~/catkin_ws
 catkin build
 rosrun 5_2 ex_5
