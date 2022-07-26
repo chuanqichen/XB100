@@ -22,7 +22,7 @@ rosrun texas_robotics_academy maze.launch
 ```
 cd ~/catkin_ws
 catkin build
-rosrun 5_2 ex_5
+rosrun 5 ex_5
 ```
 
 ## Tutorial 
