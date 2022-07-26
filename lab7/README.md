@@ -15,7 +15,7 @@ Use the usleep function to regulate how long it does this.
 
 ## launch simulator 
 ```
-rosrun texas_robotics_academy maze.launch
+roslaunch texas_robotics_academy maze.launch
 ```
 
 ## Code Assignment: robotcamp_exercises/5/src/ex_5.cpp
