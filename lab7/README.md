@@ -5,13 +5,12 @@ cd XB100
 git pull
 ```
 
-# Turn and Push
-Make the robot move forward.
-
-When the obstacle sensor is triggered, rather than stopping the robot, 
-make it go in reverse and to one side (you pick) for a moment. 
-Use the usleep function to regulate how long it does this.
-
+# Maze Mission
+ * Make the robot move forward and make turn when detecting obtacle. 
+```
+When the obstacle sensor is triggered, start to make turn by adjust the power speed on the left or right. 
+```
+ * Let robot scout the maze and get out 
 
 ## launch simulator 
 ```
