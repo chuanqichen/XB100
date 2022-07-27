@@ -24,6 +24,12 @@ catkin build
 rosrun 4_2 ex_4_2_1
 ```
 
+## How to reset Robot to start position
+Run following command in another terminal, then you can use the "Reset Robot" button on the rightest button of LCD screen. 
+```
+rosrun texas_robotics_academy reset_robot.py
+```
+
 ## Tutorial 
 * ROS Tutorial:
   * https://wiki.ros.org/ROS/Tutorials
