@@ -22,7 +22,7 @@ catkin build
 rosrun 5 ex_5
 ```
 
-## How to reset Robot to start position
+## How to reset Robot back to start position
 Run following command in another terminal, then you can use the "Reset Robot" button on the rightest button of LCD screen. 
 ```
 rosrun texas_robotics_academy reset_robot.py
