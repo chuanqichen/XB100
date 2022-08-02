@@ -27,7 +27,15 @@ Run following command in another terminal, then you can use the "Reset Robot" bu
 ```
 rosrun texas_robotics_academy reset_robot.py
 ```
-
+If you run into error like this:
+```
+$ rosrun texas_robotics_academy reset_robot.py 
+/usr/bin/env: ‘python’: No such file or directory
+```
+Then you can fix the above error by running this command on terminal:
+```
+sudo apt install python-is-python3
+```
 
 ## Tutorial 
 * ROS Tutorial:
