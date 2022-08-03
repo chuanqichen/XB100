@@ -5,13 +5,10 @@ cd XB100
 git pull
 ```
 
-# Turn and Push
-Make the robot move forward.
-
-When the obstacle sensor is triggered, rather than stopping the robot, 
-make it go in reverse and to one side (you pick) for a moment. 
-Use the usleep function to regulate how long it does this.
-
+# Maze Mission
+ * Make the robot move forward and make turn when detecting obtacle. 
+   When the obstacle sensor is triggered, start to make turn by adjust the power speed on the left or right. 
+ * Let robot scout the maze and get out 
 
 ## launch simulator 
 ```
@@ -23,6 +20,21 @@ roslaunch texas_robotics_academy maze.launch
 cd ~/catkin_ws
 catkin build
 rosrun 5 ex_5
+```
+
+## How to reset Robot back to start position
+Run following command in another terminal, then you can use the "Reset Robot" button on the rightest button of LCD screen. 
+```
+rosrun texas_robotics_academy reset_robot.py
+```
+If you run into error like this:
+```
+$ rosrun texas_robotics_academy reset_robot.py 
+/usr/bin/env: ‘python’: No such file or directory
+```
+Then you can fix the above error by running this command on terminal:
+```
+sudo apt install python-is-python3
 ```
 
 ## Tutorial 
