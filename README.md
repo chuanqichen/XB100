@@ -19,3 +19,10 @@ cd
 cd XB100
 git pull
 ```
+
+### Links
+```
+https://www.youtube.com/watch?v=lnP32gzHdvI
+https://www.youtube.com/watch?v=4Y7zG48uHRo
+https://www.youtube.com/watch?v=opsmd5yuBF0&list=RDCMUCVTxuaJsdMrk3UEcHVll9Yg&index=2
+```
