@@ -5,10 +5,6 @@
 * Configuration space and robot design: https://www.cs.unc.edu/~jeffi/c-space/robot.xhtml
 * Work Envelop : https://www.youtube.com/watch?v=_canCYWZPsc
 
-## Familiar with Ubuntu Linux 
-* reference to: linux_intro.md => Homework 
-  * https://github.com/chuanqichen/XB100/blob/main/lab2/linux_intro.md
-
 ## Install modern robotics python library 
 * Open a Terminal
 * sudo apt install python3-pip
