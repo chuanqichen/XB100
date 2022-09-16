@@ -2,34 +2,24 @@
 
 ## Install Virtual Machine for XB100 classes
 
-1. Download and Install Virtual Box: 
-..*https://www.virtualbox.org/wiki/Downloads
+1. Download and Install Virtual Box:  
+https://www.virtualbox.org/wiki/Downloads
 
 2. Download preinstalled XB100 Virtual Machine images:  
-..*https://www.icloud.com/iclouddrive/0a06crdVY3BjbtG3geujcn4ww#xbots.ova
+https://www.icloud.com/iclouddrive/0a06crdVY3BjbtG3geujcn4ww#xbots.ova
 
-3. Importing above downloaded Virtual Machine images into VirtualBox
-..* start VirtualBox. On the host where you installed Oracle VDI and VirtualBox, on the desktop select the Applications menu, then the System Tools menu, and then Oracle VM VirtualBox. Alternatively, you can run the VirtualBox command in a terminal. The Oracle VM VirtualBox Manager is displayed, as shown in below Figure.
+3. Importing above downloaded Virtual Machine images into VirtualBox   
+![VirtualBox](vbox-none-web.png)
 
-4. 
-..- VM User name: xcamp  or chuanqi
-..- Password: xcamp2022
-..- root password: xcamp2022
+   In the File menu, select Import Appliance. The Appliance Import wizard is displayed in a new window, as shown in
+ ![import](vbox-import-appliance-web.png)
 
+   Click Choose, browse to the location containing the *.ovf or *.ova file of the virtual machine you just download to import, and click Open.
 
-The first instruction is how to setup Virtual Machine in Windows 10 to install OS: Ubuntu 20.04.
-
-Please download 20.04 version (NOT 22.04 version) from below links: 
-https://releases.ubuntu.com/20.04/ubuntu-20.04.4-desktop-amd64.iso
-
-For the MAC uses, you can download Oracle VM VirtualBox (free), Parallels Desktop for Mac, or VMWare Fusion to build virtual machine. 
-Parallels Desktop for Mac: https://www.youtube.com/watch?v=EiO_CHfSn2s
-
-The instruction "How to install Ubuntu 20.04 using Virtual Box or VMWare Fusion are uploaded here. 
-
-For student who use Windows 10 Home Edition or some Windows, you do't have Hyper-V, you can use VirtualBox or VMWare Fusion on Windows to install Ubuntu. The instruction will be same as Apple Mac instruction here how to use Virtual Box to install Ubuntu.
-
-VirtualBox:  https://www.virtualbox.org/
+4. Start the Virtual Machine   
+   * VM User name: xcamp  or chuanqi
+   * Password: xcamp2022
+   * root password: xcamp2022
 
 # Enable copy and paste between host and ubuntu
 * Inside Ubuntu terminal and run following command to install additional program
