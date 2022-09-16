@@ -1,12 +1,11 @@
 # Lab3 agenda
 1. check Ubuntu setup 
 2. check Simulator setup 
-3. review linux command
-4. review git command 
-5. review simulator startup and stop 
-6. review how to run simlator scene: 1-3 
-7. review additional scene 
-8. Advanced topics: Jupter notebook 
+3. review git command 
+4. review simulator startup and stop 
+5. review how to run simlator scene: 1-3 
+6. review additional scene 
+7. Advanced topics: Jupter notebook 
    * https://github.com/chuanqichen/XB100/tree/main/lab3/advanced
 
 ### get latest update
