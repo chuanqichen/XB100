@@ -1,7 +1,7 @@
 # XB100 Lab1
 ## Host PC and Virtual machine requirements
-1. Host PC: 8+ cores, 8+GB Memory, 50GB free harddisk drive 
-2. Virutal PC will be allocated half of host's resources such as: 4 cores, 4+GB memory, 25GB hard disk
+1. Host PC: 8+ cores, 8+GB Memory, 50+GB free harddisk drive 
+2. Virutal PC will be allocated half of host's resources such as: 4+ cores, 4+GB memory, 25+GB hard disk
 
 ## Install Virtual Machine for XB100 classes
 
