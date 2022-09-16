@@ -3,16 +3,18 @@
 ## Install Virtual Machine for XB100 classes
 
 1. Download and Install Virtual Box: 
-https://www.virtualbox.org/wiki/Downloads
+..*https://www.virtualbox.org/wiki/Downloads
 
-2. Download preinstalled XB100 images:  
-https://www.icloud.com/iclouddrive/0a06crdVY3BjbtG3geujcn4ww#xbots.ova
+2. Download preinstalled XB100 Virtual Machine images:  
+..*https://www.icloud.com/iclouddrive/0a06crdVY3BjbtG3geujcn4ww#xbots.ova
 
-3. Load above image
+3. Importing above downloaded Virtual Machine images into VirtualBox
+..* start VirtualBox. On the host where you installed Oracle VDI and VirtualBox, on the desktop select the Applications menu, then the System Tools menu, and then Oracle VM VirtualBox. Alternatively, you can run the VirtualBox command in a terminal. The Oracle VM VirtualBox Manager is displayed, as shown in below Figure.
 
-- VM User name: xcamp  or chuanqi
-- Password: xcamp2022
-- root password: xcamp2022
+4. 
+..- VM User name: xcamp  or chuanqi
+..- Password: xcamp2022
+..- root password: xcamp2022
 
 
 The first instruction is how to setup Virtual Machine in Windows 10 to install OS: Ubuntu 20.04.
