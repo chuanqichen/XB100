@@ -23,4 +23,4 @@ https://www.icloud.com/iclouddrive/0a06crdVY3BjbtG3geujcn4ww#xbots.ova
 
 
 ## Familiar with Ubuntu Linux 
-* reference to: linux_intro.md => Homework 
+* Introduction to Linux [linux_intro.md] (linux_intro.md) 
