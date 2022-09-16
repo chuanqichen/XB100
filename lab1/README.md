@@ -1,5 +1,18 @@
 # XB100 Lab1
 
+Download and Install Virtual Box: 
+https://www.virtualbox.org/wiki/Downloads
+
+Download preinstalled XB100 images:  
+https://www.icloud.com/iclouddrive/0a06crdVY3BjbtG3geujcn4ww#xbots.ova
+
+Load above image
+
+- VM User name: xcamp  or chuanqi
+- Password: xcamp2022
+- root password: xcamp2022
+
+
 The first instruction is how to setup Virtual Machine in Windows 10 to install OS: Ubuntu 20.04.
 
 Please download 20.04 version (NOT 22.04 version) from below links: 
