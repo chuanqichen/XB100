@@ -23,4 +23,4 @@ https://www.icloud.com/iclouddrive/0a06crdVY3BjbtG3geujcn4ww#xbots.ova
 
 
 ## Familiar with Ubuntu Linux 
-* Introduction to Linux [linux_intro.md] (linux_intro.md) 
+* Introduction to Linux [linux_intro.md] (https://github.com/chuanqichen/XB100/blob/main/lab1/linux_intro.md) 
