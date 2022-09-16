@@ -24,3 +24,8 @@ https://www.icloud.com/iclouddrive/0a06crdVY3BjbtG3geujcn4ww#xbots.ova
 
 ## Familiar with Ubuntu Linux 
 * Introduction to Linux [linux_intro.md] (https://github.com/chuanqichen/XB100/blob/main/lab1/linux_intro.md) 
+
+## Homework "Learn C++ Programming":
+   *  https://codehs.com/go/05A14  (create your account if you have not had yet)
+   * "Unit 1: C++ BASICS" is MUST and other units are nice to learn.  
+   *  Our teaching staff can help you during office/lab hours.  
