@@ -1,12 +1,14 @@
 # XB100 Lab1
 
-Download and Install Virtual Box: 
+## Install Virtual Machine for XB100 classes
+
+1. Download and Install Virtual Box: 
 https://www.virtualbox.org/wiki/Downloads
 
-Download preinstalled XB100 images:  
+2. Download preinstalled XB100 images:  
 https://www.icloud.com/iclouddrive/0a06crdVY3BjbtG3geujcn4ww#xbots.ova
 
-Load above image
+3. Load above image
 
 - VM User name: xcamp  or chuanqi
 - Password: xcamp2022
