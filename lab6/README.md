@@ -1,54 +1,46 @@
-# Lab5 
+# Get latest instruction 
 ```
 cd
 cd XB100
 git pull
 ```
 
-# Download robotics programming code
-```
-cd ~/catkin_ws/src/
-git clone https://github.com/texas-robocamp/robocamp_exercises.git
-cd ..
-catkin build
-```
-catkin build -DPYTHON_EXECUTABLE=/usr/bin/python3
-
-
-## launch simulator 
-open a terminal to run following two commands:
-```
-roslaunch texas_robotics_academy test_world.launch 
-```
-
-## Code using vscode  
+# Maze Mission
+ * Make the robot move forward and make turn when detecting obtacle. 
+   When the obstacle sensor is triggered, start to make turn by adjust the power speed on the left or right. 
+ * Let robot scout the maze and get out 
 
 ## launch simulator 
 ```
-rosrun texas_robotics_academy box.launch
-```
-open another terminal to run following two commands:
-```
-rosrun texas_robotics_academy teleop_texbot
+roslaunch texas_robotics_academy maze.launch
 ```
 
-
-## Code Assignment:
-* Robot functions :  Exercise 4.2.1 and 4.2.2 
-* Robot Move : Exercise 4.3.1 to 4.3.9
+## Code Assignment: robotcamp_exercises/5/src/ex_5.cpp
 ```
 cd ~/catkin_ws
 catkin build
-rosrun 4_2 ex_4_2_1
+rosrun 5 ex_5
 ```
 
-## How to reset Robot to start position
+## How to reset Robot back to start position
 Run following command in another terminal, then you can use the "Reset Robot" button on the rightest button of LCD screen. 
 ```
 rosrun texas_robotics_academy reset_robot.py
+```
+If you run into error like this:
+```
+$ rosrun texas_robotics_academy reset_robot.py 
+/usr/bin/env: ‘python’: No such file or directory
+```
+Then you can fix the above error by running this command on terminal:
+```
+sudo apt install python-is-python3
 ```
 
 ## Tutorial 
 * ROS Tutorial:
   * https://wiki.ros.org/ROS/Tutorials
-
+* Shakey the Robot: The First Robot to Embody Artificial Intelligence
+  * https://www.youtube.com/watch?v=7bsEN8mwUB8
+* Grey Walter's tortoises
+  * https://www.youtube.com/watch?v=lLULRlmXkKo

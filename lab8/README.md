@@ -18,7 +18,10 @@ roslaunch texas_robotics_academy racetrack.launch
 ```
 cd ~/catkin_ws
 catkin build
-rosrun 6_1 ex_6_1_1
+rosrun 7_1 ex_7_1_1
+rosrun 7_1 ex_7_1_2
+rosrun 7_1 ex_7_1_3
+rosrun 7_1 ex_7_1_4
 ```
 
 ## Tutorial 
