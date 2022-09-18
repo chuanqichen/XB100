@@ -14,20 +14,24 @@ cd
 cd XB100
 git pull
 ```
-
 ### go to lab3 folder
 ```
 cd lab3
 unzip EV-R3P_1.3.1.zip
 ```
-
 ### how to run simulator 
 ```
 cd 
 cd CoppeliaSim_Edu_V4_3_0_rev10_Ubuntu20_04
 ./coppeliaSim.sh
 ```
+
 ### Homework: Additional scenes 
+```diff
+- Notes: specify the folder with directory name with "/" at the end
++ /home/xcamp/V-REP_scenes/Scene5_example/  is correct 
+- /home/xcamp/V-REP_scenes/Scene5_example  is wrong 
+```
 Once CoppeliaSim is open you will want to run one of the scenes below. To run any of them, you first run CoppeliaSim, then you click File->Open scene... and open one of the ttt files that are listed for each scene. Then click either the Play button from the top toolbar or click Simulation->Start simulation and a GUI should pop up. Clicking the Stop button or Simulation->Stop simulation will close the GUI and stop the simulation.
 
 The "interactive" scenes allow you to visualize the robot as you change its configuration using sliders. The "CSV" scenes allow animations of a robot based on a trajectory stored in a comma-separated values file, where each line corresponds to a timestep and consists of comma-separated numbers specifying the robot's configuration at that timestep. There are no joint limits in the "CSV" scenes.
