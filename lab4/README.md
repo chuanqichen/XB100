@@ -1,4 +1,5 @@
-# Install ROS
+# Install ROS 
+## You can skip this if you load Virtualbox image xbots.ova in Lab1
 ```
 cd
 cd XB100
