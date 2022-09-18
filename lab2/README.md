@@ -46,6 +46,16 @@ The "interactive" scenes allow you to visualize the robot as you change its conf
 
 All below ???.ttt or ???.csv files are located on your github local folder such as: ?\XB100\lab2
 
+
+```diff
+- Switching Between Scenes: 
++ Press the Stop button to stop the simulation of the current scene, then choose File>Open scene.... 
++ You can also use File>Open recent scene to switch to a scene you previously loaded. 
++ Then you press the Play button to run the scene. 
++ Alternatively, stop the simulation and then press the Scenes button in the top toolbar to see which scenes are currently open 
++ and select one to be in the foreground. The scene selector toolbar button may also be used to switch between opened scenes. 
+```
+
 ### Scene 1: Interactive UR5
 * ![Ur5](142px-Ur5-img.png)
 * Scene1_UR5.ttt: the CoppeliaSim scene file.
