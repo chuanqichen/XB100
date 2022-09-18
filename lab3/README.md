@@ -95,7 +95,8 @@ This scene is used in Milestone 2 of the capstone mobile manipulation project. I
 r11, r12, r13, r21, r22, r23, r31, r32, r33, px, py, pz, gripper state
 where the transformation matrix Tse is
 
-$ T_{se} = \left[\begin{array}{cccc} r_{11} & r_{12} & r_{13} & p_x \\ r_{21} & r_{22} & r_{23} & p_y \\ r_{31} & r_{32} & r_{33} & p_z \\ 0 & 0 & 0 & 1 \end{array}\right] $. 
+
+$$ T_{se} = \left[\begin{array}{cccc} r_{11} & r_{12} & r_{13} & p_x \cr r_{21} & r_{22} & r_{23} & p_y \cr r_{31} & r_{32} & r_{33} & p_z \cr 0 & 0 & 0 & 1 \end{array}\right] $$ 
 
 CoppeliaSim will animate the motion of the end-effector based on this csv file. It will also show the cube that is to be manipulated by the gripper, at its initial and goal configurations.
 
