@@ -5,7 +5,7 @@
 4. review simulator startup and stop 
 5. review how to run simlator scene: 1-3 
 6. Homework: Additional scenes 
-7. Advanced topics: Jupter notebook 
+7. (Optional) Advanced topics: Jupter notebook 
    * https://github.com/chuanqichen/XB100/tree/main/lab3/advanced
 
 ### get latest update
