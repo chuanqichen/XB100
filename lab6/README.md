@@ -1,9 +1,27 @@
-# Install ROS
+# Lab5 
 ```
 cd
 cd XB100
 git pull
 ```
+
+# Download robotics programming code
+```
+cd ~/catkin_ws/src/
+git clone https://github.com/texas-robocamp/robocamp_exercises.git
+cd ..
+catkin build
+```
+catkin build -DPYTHON_EXECUTABLE=/usr/bin/python3
+
+
+## launch simulator 
+open a terminal to run following two commands:
+```
+roslaunch texas_robotics_academy test_world.launch 
+```
+
+## Code using vscode  
 
 ## launch simulator 
 ```
