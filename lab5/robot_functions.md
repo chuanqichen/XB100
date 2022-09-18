@@ -1,7 +1,7 @@
 # Robot Functions
 ## Documentation 
 
-We've gone ahead and included a separate page with all the documentation for using the robot [here](docs.html), but we'll be introducing you to the various functions our robot as they become useful. Feel free to come back to this page or the documentation to check up on what these functions do.
+We've gone ahead and included a separate page with all the documentation for using the robot, but we'll be introducing you to the various functions our robot as they become useful. Feel free to come back to this page or the documentation to check up on what these functions do.
 
 ## `LEDs`
 
@@ -55,7 +55,7 @@ In the next two exercises you will need to come up with a good threshold with wh
 
 - Instead of just printing which sensor is activated, turn on the corresponding LED to indicate which obstacle sensor has been triggered.
 
-Many of you may have issues with this exercise, so please call a counselor!
+Many of you may have issues with this exercise, so please post questions or ask classmates and TA!
 
 ## Reference:
 * https://github.com/Texas-Robotics-Academy/markdown.git
