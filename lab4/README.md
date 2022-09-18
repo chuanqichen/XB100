@@ -46,7 +46,7 @@ rosrun texas_robotics_academy teleop_texbot
 ```
 
 
-## Helpful ROS commands
+## Helpful ROS commands to understand, pratise and memeroize 
 Here is a list of ROS commands that you will use often to understand what topics are being used.
 * rostopic list - This lists all of the topics that have been used or are in use.
 * rostopic echo -This echos the messages that are being sent to the particular topic.
