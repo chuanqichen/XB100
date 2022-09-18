@@ -87,3 +87,18 @@ This scene simulates a RRPR robot. It animates a csv file containing a trajector
 Scene 7 files:
 * Scene7_MTB_csv.ttt: the CoppeliaSim scene file.
 * Scene7_example.csv: An example input file.
+
+#### Scene 8: CSV youBot End-Effector Animation
+ ![Capstone-gripper.png](274px-Capstone-gripper.png)<br>
+This scene is used in Milestone 2 of the capstone mobile manipulation project. It animates the motion of the gripper of the youBot only (the rest of the youBot is not shown), and this scene is used to validate the planned motion of the gripper. Each line of the csv file has 13 comma-separated values: 12 from the top three rows of the transformation matrix Tse representing the configuration of the end-effector frame {e} relative to the space frame {s}, and 1 representing the gripper state (0 = open, 1 = closed). In other words, one line of the csv file is
+
+r11, r12, r13, r21, r22, r23, r31, r32, r33, px, py, pz, gripper state
+where the transformation matrix Tse is
+
+$ T_{se} = \left[\begin{array}{cccc} r_{11} & r_{12} & r_{13} & p_x \\ r_{21} & r_{22} & r_{23} & p_y \\ r_{31} & r_{32} & r_{33} & p_z \\ 0 & 0 & 0 & 1 \end{array}\right] $. 
+
+CoppeliaSim will animate the motion of the end-effector based on this csv file. It will also show the cube that is to be manipulated by the gripper, at its initial and goal configurations.
+
+Scene 8 files:
+* Scene8_gripper_csv.ttt: the CoppeliaSim scene file.
+* Scene8_example.csv: an example input file solving the task when the cube's initial and goal configurations are the defaults.
