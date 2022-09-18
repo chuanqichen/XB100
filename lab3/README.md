@@ -4,7 +4,7 @@
 3. review git command 
 4. review simulator startup and stop 
 5. review how to run simlator scene: 1-3 
-6. review additional scenes 
+6. Homework: Additional scenes 
 7. Advanced topics: Jupter notebook 
    * https://github.com/chuanqichen/XB100/tree/main/lab3/advanced
 
