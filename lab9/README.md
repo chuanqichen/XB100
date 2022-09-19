@@ -14,7 +14,11 @@ Make the robot move forward and follow the line of the track.
 roslaunch texas_robotics_academy racetrack.launch
 ```
 
-## Code Assignment: robotcamp_exercises/5/src/ex_5.cpp
+## Code Assignment
+* robotcamp_exercises/7_1/src/ex_7_1_1.cpp
+* robotcamp_exercises/7_1/src/ex_7_1_2.cpp
+* robotcamp_exercises/7_1/src/ex_7_1_3.cpp
+* robotcamp_exercises/7_1/src/ex_7_1_4.cpp
 ```
 cd ~/catkin_ws
 catkin build
