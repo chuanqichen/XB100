@@ -56,17 +56,17 @@ Here is a list of ROS commands that you will use often to understand what topics
 
 ## Homework: 
 1. Code your own subscriber odom_subscriber.py and then run
-*  subscribe Odometry msg and implement callback to print the pose and twist 
-*  [Odom msg: http://wiki.ros.org/navigation/Tutorials/RobotSetup/Odom](http://wiki.ros.org/navigation/Tutorials/RobotSetup/Odom) 
-```
-python3 odom_subscriber.py
-odom_subscriber_sol.py is for your reference if getting stuck, don't copy and paste, please code yourself. 
-```
+  *  subscribe Odometry msg and implement callback to print the pose and twist 
+  *  [Odom msg: http://wiki.ros.org/navigation/Tutorials/RobotSetup/Odom](http://wiki.ros.org/navigation/Tutorials/RobotSetup/Odom) 
+  ```
+   python3 odom_subscriber.py
+   odom_subscriber_sol.py is for your reference if getting stuck, don't copy and paste, please code yourself. 
+  ```
 
 2. (Optional) Code your own publisher vel_publisher.py to drive the robot and then run
-```
-python3 vel_publisher.py
-```
+   ```
+   python3 vel_publisher.py
+   ```
 
 ## Tutorial 
 * ROS Tutorial:
