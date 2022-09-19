@@ -1,5 +1,6 @@
 # Line Following using PID Controller
 In this tutorial, you're going to make the robot follow a line on the ground.
+<img src="../lab9/racetrack.PNG" width=600>
 
 You'll be using the racetrack.launch launch file for these exercises.
 
