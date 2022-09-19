@@ -8,7 +8,9 @@ git pull
 # Follow the race track using PID controller 
 Make the robot move forward and follow the line of the track.
 
-[Detailed Project Description](https://github.com/chuanqichen/XB100/blob/main/lab11/robot_race.md)
+[Detailed Project Description](https://github.com/chuanqichen/XB100/blob/main/lab11/robot_race.md)<br>
+
+<img src="../lab9/racetrack.PNG" width=600>
 
 ## launch simulator 
 ```
