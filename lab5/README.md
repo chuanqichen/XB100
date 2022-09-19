@@ -30,7 +30,7 @@ Close above simulator once you verify the teleop_texbot works.
 ## Code Assignment:
 * Code using vscode  
 * launch and test simulator 
-<img src="box.PNG" width=500><br>
+<br><img src="box.PNG" width=500><br>
 ```
 rosrun texas_robotics_academy box.launch
 ```
