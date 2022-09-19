@@ -24,6 +24,10 @@ catkin build
 rosrun 8_1 ex_8_1
 ```
 
+## Start the race and reset 
+![Timer](timer.png)
+You will notice instead of our normal LCD display, you are greeted with a timer with a start and reset button.
+
 ## Tutorial 
 * Mobile Robots:
   * https://www.youtube.com/watch?v=IRwyOPO6KR4
