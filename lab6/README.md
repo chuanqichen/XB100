@@ -9,6 +9,7 @@ git pull
  * Make the robot move forward and make turn when detecting obtacle. 
    When the obstacle sensor is triggered, start to make turn by adjust the power speed on the left or right. 
  * Let robot scout the maze and get out 
+ <img src="maze.png" width=600>
 
 ## launch simulator 
 ```
