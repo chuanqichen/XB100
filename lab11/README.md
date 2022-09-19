@@ -25,7 +25,7 @@ rosrun 8_1 ex_8_1
 ```
 
 ## Start the race and reset 
-![Timer](timer.png)
+![Timer](timer.png)<br>
 You will notice instead of our normal LCD display, you are greeted with a timer with a start and reset button.
 
 ## Tutorial 
