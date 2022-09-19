@@ -6,7 +6,8 @@ git pull
 ```
 
 # Follow the line 
-Make the robot move forward and follow the line of the track.
+Make the robot move forward and follow the line of the track.<br>
+<img src="../lab9/racetrack.PNG" width=600><br>
 
 # Detailed Project Description: 
 [Robot Follower](https://github.com/chuanqichen/XB100/blob/main/lab7/robot_follower.md)
