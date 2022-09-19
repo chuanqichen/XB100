@@ -26,7 +26,7 @@ https://www.icloud.com/iclouddrive/0a06crdVY3BjbtG3geujcn4ww#xbots.ova
 
 * If for somereason, above image doesn't work for you, you need manual install ubuntu and ROS, here are the instruction: 
   1. [Manually install Ubuntu](https://github.com/chuanqichen/XB100/blob/main/lab1/manual_steps_instructions/install_ubuntu20.04_virtual_box.md)
-  2. [Manually install ROS](https://github.com/chuanqichen/XB100/blob/main/lab1/manual_steps_instructions/install_ros_step_by_step.md)
+  2. Try to run auto script [ros.sh](../lab4/ros.sh) or step by step [Manually install ROS](https://github.com/chuanqichen/XB100/blob/main/lab1/manual_steps_instructions/install_ros_step_by_step.md)
 
 ## How to launch and test your simulator to get ready for this class
 open a terminal to run following two commands:
