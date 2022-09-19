@@ -5,8 +5,11 @@ cd XB100
 git pull
 ```
 
-# Follow the line 
+# Follow the race track using PID Controller 
 Make the robot move forward and follow the line of the track.
+
+# Detailed Project Description: 
+[PID Controller following race track](https://github.com/chuanqichen/XB100/blob/main/lab9/robot_following_using_PID.md)
 
 
 ## launch simulator 
