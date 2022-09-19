@@ -28,6 +28,18 @@ https://www.icloud.com/iclouddrive/0a06crdVY3BjbtG3geujcn4ww#xbots.ova
   1. [Manually install Ubuntu](https://github.com/chuanqichen/XB100/blob/main/lab1/manual_steps_instructions/install_ubuntu20.04_virtual_box.md)
   2. [Manually install ROS](https://github.com/chuanqichen/XB100/blob/main/lab1/manual_steps_instructions/install_ros_step_by_step.md)
 
+## How to launch and test your simulator to get ready for this class
+<img src="lab5/test_world.PNG" width=500><br>
+open a terminal to run following two commands:
+```
+roslaunch texas_robotics_academy test_world.launch 
+```
+open another terminal to run following teleop_texbot to control the robot:
+```
+rosrun texas_robotics_academy teleop_texbot
+```
+Close above simulator once you verify the teleop_texbot works. 
+
 ## Familiar with Ubuntu Linux 
 * Introduction to Linux [linux_intro.md] (https://github.com/chuanqichen/XB100/blob/main/lab1/linux_intro.md) 
 
