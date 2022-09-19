@@ -1,4 +1,4 @@
-# Turn and Push
+# Turn and Push Robot
 In this tutorial, you will learn a simple way to allow your robot to navigate its environment. Variations of what happens in this paper have been adapted for many robots, including space vehicles and the Roomba vacuum cleaning robot.
 
 ## Grey Walter's Tortoises
@@ -19,8 +19,8 @@ By turning and pushing, the robot would eventually make its way around the obsta
 
 The Roomba does something similar as it vacuums. When its bump sensor is hit, it turns and begins its wandering behavior again.
 
-### Exercise 5
-
+## Mid Term Project: Exercise 5
+<img src="maze.PNG" width=600><br>
 Following light is not part of this challenge, but we will be having the TexBot emulate the tortoise's **turn and push** behavior using our obstacle sensor.
 
 - Start with the "empty" program.
