@@ -25,7 +25,7 @@ https://www.icloud.com/iclouddrive/0a06crdVY3BjbtG3geujcn4ww#xbots.ova
    * root password: xcamp2022
 
 * If for somereason, above image doesn't work for you, you need manual install ubuntu and ROS, here are the instruction: 
-  1. [Manually install Ubunut](https://github.com/chuanqichen/XB100/blob/main/lab1/manual_steps_instructions/install_ubuntu20.04_virtual_box.md)
+  1. [Manually install Ubuntu](https://github.com/chuanqichen/XB100/blob/main/lab1/manual_steps_instructions/install_ubuntu20.04_virtual_box.md)
   2. [Manually install ROS](https://github.com/chuanqichen/XB100/blob/main/lab1/manual_steps_instructions/install_ros_step_by_step.md)
 
 ## Familiar with Ubuntu Linux 
