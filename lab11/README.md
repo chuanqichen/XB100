@@ -5,13 +5,13 @@ cd XB100
 git pull
 ```
 
-# Follow the line 
+# Follow the race track using PID controller 
 Make the robot move forward and follow the line of the track.
 
 
 ## launch simulator 
 ```
-roslaunch texas_robotics_academy racetrack.launch
+roslaunch texas_robotics_academy race.launch
 ```
 
 ## Code Assignment: robotcamp_exercises/8/src/ex_8.cpp
