@@ -16,7 +16,7 @@ On the outside of the tortoise was a plastic shell. This was attached to a bump 
 
 By turning and pushing, the robot would eventually make its way around the obstacle, and to the light.
 
-![Tortoises](img/turn_and_push.png)
+![Tortoises](turn_and_push.png.jpg)
 
 The Roomba does something similar as it vacuums. When its bump sensor is hit, it turns and begins its wandering behavior again.
 
