@@ -16,7 +16,7 @@ catkin build -DPYTHON_EXECUTABLE=/usr/bin/python3
 
 
 ## launch and test simulator 
-<img src="test_world.png" width=500><br>
+<img src="test_world.PNG" width=500><br>
 open a terminal to run following two commands:
 ```
 roslaunch texas_robotics_academy test_world.launch 
@@ -30,7 +30,7 @@ Close above simulator once you verify the teleop_texbot works.
 ## Code Assignment:
 * Code using vscode  
 * launch and test simulator 
-<img src="box.png" width=500>
+<img src="box.PNG" width=500>
 ```
 rosrun texas_robotics_academy box.launch
 ```
