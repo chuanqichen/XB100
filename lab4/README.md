@@ -60,8 +60,8 @@ Here is a list of ROS commands that you will use often to understand what topics
   *  [Odom msg: http://wiki.ros.org/navigation/Tutorials/RobotSetup/Odom](http://wiki.ros.org/navigation/Tutorials/RobotSetup/Odom) 
   ```
    python3 odom_subscriber.py
-   odom_subscriber_sol.py is for your reference if getting stuck, don't copy and paste, please code yourself. 
   ```
+  * Teacher might post odom_subscriber_sol.py on google classroom for your reference if getting stuck, don't copy and paste, please code yourself. 
 
 2. (Optional) Code your own publisher vel_publisher.py to drive the robot and then run
    * You can implemente similar or subset functions of teleop_texbot
@@ -72,6 +72,7 @@ Here is a list of ROS commands that you will use often to understand what topics
    python3 vel_publisher.py
    vel_publisher_sol.py as your code reference, this version implements f, b, l, r for forward, backward, left and right turn. 
    ```
+   * Teacher might post vel_publisher_sol.py on google classroom for your reference if getting stuck, don't copy and paste, please code yourself. 
 
 ## Tutorial 
 * ROS Tutorial:
