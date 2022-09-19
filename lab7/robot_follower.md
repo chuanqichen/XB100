@@ -4,7 +4,7 @@ In this tutorial, we're going to do quite a lot, and it's going to be challengin
 We're going to tell you what this program does so you can see where this is all going.
 
 You'll be using the `racetrack.launch` launch file for these exercises, which looks like this: <br>
-<img src="../lab9/racetrack.PNG" width=600><br>
+<img src="https://github.com/chuanqichen/XB100/blob/main/lab9/racetrack.PNG" width=600><br>
 
 The first program that you will write will allow you to see the numbers returned by the line follower. It lets you explore the raw, numerical data that the device sees, and how each number is in a position corresponding to the line. What I've said will make sense once you've tried it out.
 
