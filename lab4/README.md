@@ -64,9 +64,13 @@ Here is a list of ROS commands that you will use often to understand what topics
   ```
 
 2. (Optional) Code your own publisher vel_publisher.py to drive the robot and then run
+   * You can implemente similar of subset functions of teleop_texbot
+   * ROS topics "/cmd_vel" is what need to drive the robot, Twist is the data structure of Msg to publish to this topics. 
+   * [Twist Class Reference](http://docs.ros.org/en/diamondback/api/geometry_msgs/html/classgeometry__msgs_1_1msg_1_1__Twist_1_1Twist.html)
+   * [Python geometry_msgs.msg.Twist() Examples](https://www.programcreek.com/python/example/70251/geometry_msgs.msg.Twist)
    ```
    python3 vel_publisher.py
-   teleop_texbot.cpp and vel_publisher_sol.py as your code reference  
+   and vel_publisher_sol.py as your code reference  
    ```
 
 ## Tutorial 
