@@ -66,7 +66,7 @@ Here is a list of ROS commands that you will use often to understand what topics
 2. (Optional) Code your own publisher vel_publisher.py to drive the robot and then run
    ```
    python3 vel_publisher.py
-   vel_publisher_sol.py is for your reference if getting stuck, don't copy and paste, please code yourself. 
+   teleop_texbot.cpp and vel_publisher_sol.py as your code reference  
    ```
 
 ## Tutorial 
