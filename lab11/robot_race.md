@@ -1,5 +1,6 @@
 # Race!
 For the final challenge, we're going to race our robots against each other for the prize of ultimate bragging rights!
+<img src="../lab9/racetrack.PNG" width=600>
 
 In this challenge, we will be using the **race.launch** file, which includes a slightly different display from what you are used to.
 
