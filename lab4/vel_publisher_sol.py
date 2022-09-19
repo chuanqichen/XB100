@@ -1,12 +1,14 @@
 #!/usr/bin/env python
 import rospy
-from geometry_msgs.msg import Twist
+from geometry_msgs. msg import Twist
+from nav_msgs. msg import Odometry
+
 
 rospy.init_node('vel_publisher')
-pub = rospy.Publisher('/mobile_base/commands/velocity', Twist, queue_size=10)
+pub = rospy.Publisher('/cmd_vel', Twist, queue_size=10)
 while not rospy.is_shutdown():
     vel = Twist()
-    direction = raw_input('f: forward, b: backward, l: left, r: right > ')
+    direction = input('f: forward, b: backward, l: left, r: right > ')
     if 'f' in direction:
         vel.linear.x = 0.5
     if 'b' in direction:
