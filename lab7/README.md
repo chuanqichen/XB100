@@ -8,6 +8,9 @@ git pull
 # Follow the line 
 Make the robot move forward and follow the line of the track.
 
+# Detailed Project Description: 
+[Robot Follower](https://github.com/chuanqichen/XB100/blob/main/lab7/robot_follower.md)
+
 
 ## launch simulator 
 ```
