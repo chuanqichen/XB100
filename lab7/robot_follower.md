@@ -3,6 +3,9 @@ In this tutorial, we're going to do quite a lot, and it's going to be challengin
 
 We're going to tell you what this program does so you can see where this is all going.
 
+You'll be using the `racetrack.launch` launch file for these exercises, which looks like this: <br>
+<img src="../lab9/racetrack.PNG" width=600><br>
+
 The first program that you will write will allow you to see the numbers returned by the line follower. It lets you explore the raw, numerical data that the device sees, and how each number is in a position corresponding to the line. What I've said will make sense once you've tried it out.
 
 The second program that you write will allow you to **threshold** the data coming off of the line follower, to determine what is a line and what is not. It will use the LCD on the robot to print asterisks wherever the line is under the line follower, and dashes wherever there isn't.
