@@ -12,10 +12,10 @@ https://www.virtualbox.org/wiki/Downloads
 https://www.icloud.com/iclouddrive/0a06crdVY3BjbtG3geujcn4ww#xbots.ova
 
 3. Importing above downloaded Virtual Machine images into VirtualBox   
-![VirtualBox](vbox-none-web.png)
+   <br><img src="vbox-none-web.png" width=460><br>
 
    In the File menu, select Import Appliance. The Appliance Import wizard is displayed in a new window, as shown in
- ![import](vbox-import-appliance-web.png)
+   <br><img src="vbox-import-appliance-web.png" width=460><br>
 
    Click Choose, browse to the location containing the *.ovf or *.ova file of the virtual machine you just download to import, and click Open.
 
@@ -29,12 +29,13 @@ https://www.icloud.com/iclouddrive/0a06crdVY3BjbtG3geujcn4ww#xbots.ova
   2. [Manually install ROS](https://github.com/chuanqichen/XB100/blob/main/lab1/manual_steps_instructions/install_ros_step_by_step.md)
 
 ## How to launch and test your simulator to get ready for this class
-<img src="lab5/test_world.PNG" width=500><br>
 open a terminal to run following two commands:
 ```
 roslaunch texas_robotics_academy test_world.launch 
 ```
-open another terminal to run following teleop_texbot to control the robot:
+And you should have following simulator launched successfully. <br>
+<img src="../lab5/test_world.PNG" width=460><br>
+open another terminal to run following teleop_texbot and following onscreen instruction to control the robot:
 ```
 rosrun texas_robotics_academy teleop_texbot
 ```
