@@ -31,7 +31,7 @@ The first time you install VirtualBox, you may see a pop-up saying something alo
 
 
 ### Creating the virtual machine
-1. Start downloading the installer for Ubuntu 20.04.4 from https://releases.ubuntu.com/20.04/ubuntu-20.04.4-desktop-amd64.iso 
+1. Start downloading the installer for Ubuntu 20.04.4 from https://releases.ubuntu.com/focal/ubuntu-20.04.5-desktop-amd64.iso 
 
 2. Open VirtualBox.
 
