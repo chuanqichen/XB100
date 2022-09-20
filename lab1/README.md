@@ -43,7 +43,7 @@ Close above simulator once you verify the teleop_texbot works.
 
 Then we need check if catkin development environment is healthy: 
 ```
-camp@xbots:~$ cd catkin_ws/
+xcamp@xbots:~$ cd catkin_ws/
 xcamp@xbots:~/catkin_ws$ catkin build
 ```
 There are some warnings, but as long as all 8 packages have been built successfully like below at the end, then everything is Okay. 
