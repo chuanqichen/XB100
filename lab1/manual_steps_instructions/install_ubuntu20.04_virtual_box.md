@@ -7,7 +7,7 @@
 **Windows:**
 1. Go to https://www.virtualbox.org/wiki/Downloads.
 
-2. Under the section for the latest version (such as 6.1.34), click the download link for “Windows hosts”.
+2. Under the section for the latest version (such as 6.1.38), click the download link for “Windows hosts”.
 
 3. Open the installer.
 
