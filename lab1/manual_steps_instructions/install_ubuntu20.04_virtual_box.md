@@ -16,7 +16,7 @@
 **Mac:**
 1. Go to https://www.virtualbox.org/wiki/Downloads.
 
-2. Under the section for the latest version (6.1.10 at the time of writing), click the download link for “OS X hosts”.
+2. Under the section for the latest version (6.1.38 at the time of writing), click the download link for “OS X hosts”.
 
 3. Open the installer and double-click the “VirtualBox.pkg” file.
 
