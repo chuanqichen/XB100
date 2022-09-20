@@ -48,7 +48,7 @@ xcamp@xbots:~/catkin_ws$ catkin build
 ```
 There are some warnings, but as long as all 8 packages have been built successfully like below at the end, then everything is Okay. 
 ```
-[build] Summary: All 8 packages succeeded!                                     
+[build] Summary: All 1 packages succeeded!                                     
 [build]   Ignored:   None.                                                     
 [build]   Warnings:  3 packages succeeded with warnings.                       
 [build]   Abandoned: None.                                                     
