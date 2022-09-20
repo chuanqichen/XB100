@@ -57,7 +57,7 @@ The first time you install VirtualBox, you may see a pop-up saying something alo
 
 7. Select “VDI” and click Continue.
 
-8. Select “***Fixed-size***” and click Continue.
+8. Select “***Fixed-size***” (or "***Dynamically allocated***" if you don't have enough hard disk drive space) and click Continue.
 
 9. Set the size to 300GB (minimal 50GB) and click Create (leave the file name and location as-is).
 
