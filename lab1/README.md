@@ -41,6 +41,21 @@ rosrun texas_robotics_academy teleop_texbot
 ```
 Close above simulator once you verify the teleop_texbot works. 
 
+Then we need check if catkin development environment is healthy: 
+```
+camp@xbots:~$ cd catkin_ws/
+xcamp@xbots:~/catkin_ws$ catkin build
+```
+There are some warnings, but as long as all 8 packages have been built successfully like below at the end, then everything is Okay. 
+```
+[build] Summary: All 8 packages succeeded!                                     
+[build]   Ignored:   None.                                                     
+[build]   Warnings:  3 packages succeeded with warnings.                       
+[build]   Abandoned: None.                                                     
+[build]   Failed:    None.                                                     
+[build] Runtime: 45.3 seconds total.  
+```
+
 ## Familiar with Ubuntu Linux 
 * Introduction to Linux [linux_intro.md] (https://github.com/chuanqichen/XB100/blob/main/lab1/linux_intro.md) 
 
