@@ -8,9 +8,9 @@ def callback (data):
 
 
 def subscriber ():
-	rospy.init_node("odom_subscriber" , anonymous=True )
+    rospy.init_node("odom_subscriber" , anonymous=True )
     # TODO: Create a subscriber (1 line). http://wiki.ros.org/ROS/Tutorials/WritingPublisherSubscriber%28python%29#rospy_tutorials.2FTutorials.2FWritingPublisherSubscriber.Writing_the_Subscriber_Node
-	rospy.spin()
+    rospy.spin()
 
 
 if __name__ == '__main__':
