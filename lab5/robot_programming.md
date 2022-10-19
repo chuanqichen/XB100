@@ -61,7 +61,7 @@ TexBot bot;
 
 Here, we're creating an instance of the `TexBot` object, and calling it `bot`. 
 
-This object is a **class** just like the `BankAccount` class you developed earlier in the programming portion of this camp, and much like the `BankAccount` class, it contains a number of variables and functions, some of which are private and some of which are public. We'll explore these in more detail later on.
+This object is a **class** just like the `BankAccount` class you developed earlier in the programming portion of this camp, and much like the `BankAccount` class, it contains a number of variables and functions, some of which are private and some of which are public. We'll explore these in more detail later on. For your reference, all `TexBot` functions can be found [online](https://github.com/Texas-Robotics-Academy/texas_robotics_academy/blob/main/include/texas_robotics_academy/texbot_wrapper.h). You can also read it in your Ubuntu VM at `~/catkin_ws/src/texas_robotics_academy/include/texas_robotics_academy/texbot_wrapper.h`
 
 ```
 while(ros::ok()) {
