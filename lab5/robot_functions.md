@@ -3,7 +3,7 @@
 
 We've gone ahead and included a separate page with all the documentation for using the robot, but we'll be introducing you to the various functions our robot as they become useful. Feel free to come back to this page or the documentation to check up on what these functions do.
 
-For your reference, all TextBot functions can be found [here](https://github.com/Texas-Robotics-Academy/texas_robotics_academy/blob/main/include/texas_robotics_academy/texbot_wrapper.h).
+For your reference, all TextBot functions can be found [online](https://github.com/Texas-Robotics-Academy/texas_robotics_academy/blob/main/include/texas_robotics_academy/texbot_wrapper.h). You can also read it in your Ubuntu VM at ~/catkin_ws/src/texas_robotics_academy/include/texas_robotics_academy/texbot_wrapper.h
 
 ## `LEDs`
 
