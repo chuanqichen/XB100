@@ -32,7 +32,7 @@ Close above simulator once you verify the teleop_texbot works.
 * launch and test simulator 
 <br><img src="box.PNG" width=500><br>
 ```
-rosrun texas_robotics_academy box.launch
+roslaunch texas_robotics_academy box.launch
 ```
 
 * Robot functions :  Exercise 4.2.1 and 4.2.2 
